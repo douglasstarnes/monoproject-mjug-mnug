@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "twitter", "twitter.csproj", "{6D4A45BC-2072-4EA4-A401-E7DF71401176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D4A45BC-2072-4EA4-A401-E7DF71401176}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{6D4A45BC-2072-4EA4-A401-E7DF71401176}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{6D4A45BC-2072-4EA4-A401-E7DF71401176}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{6D4A45BC-2072-4EA4-A401-E7DF71401176}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{6D4A45BC-2072-4EA4-A401-E7DF71401176}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{6D4A45BC-2072-4EA4-A401-E7DF71401176}.Debug|iPhone.Build.0 = Debug|iPhone
+		{6D4A45BC-2072-4EA4-A401-E7DF71401176}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{6D4A45BC-2072-4EA4-A401-E7DF71401176}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{6D4A45BC-2072-4EA4-A401-E7DF71401176}.Release|iPhone.ActiveCfg = Release|iPhone
+		{6D4A45BC-2072-4EA4-A401-E7DF71401176}.Release|iPhone.Build.0 = Release|iPhone
+		{6D4A45BC-2072-4EA4-A401-E7DF71401176}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{6D4A45BC-2072-4EA4-A401-E7DF71401176}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = twitter.csproj
+	EndGlobalSection
+EndGlobal
